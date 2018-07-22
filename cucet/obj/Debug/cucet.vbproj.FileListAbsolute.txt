@@ -1,0 +1,75 @@
+c:\users\hp\documents\visual studio 2015\Projects\cucet\cucet\bin\Debug\cucet.exe.config
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\bin\Debug\cucet.exe
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\bin\Debug\cucet.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\bin\Debug\cucet.xml
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.vbprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.Resources.resources
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.vbproj.GenerateResource.Cache
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.exe
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.xml
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.home.resources
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.uni.resources
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.Apply.resources
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\bin\Debug\MySql.Data.dll
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\bin\Debug\MySql.Data.xml
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.contact.resources
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.program.resources
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.syllabus.resources
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.importantdate.resources
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.subapp.resources
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\bin\Debug\cucet.exe.manifest
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\bin\Debug\cucet.application
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.exe.manifest
+C:\Users\hp\documents\visual studio 2015\Projects\cucet\cucet\obj\Debug\cucet.application
+C:\Users\ggolu\Desktop\cucet\cucet\bin\Debug\cucet.exe.config
+C:\Users\ggolu\Desktop\cucet\cucet\bin\Debug\cucet.exe.manifest
+C:\Users\ggolu\Desktop\cucet\cucet\bin\Debug\cucet.application
+C:\Users\ggolu\Desktop\cucet\cucet\bin\Debug\cucet.exe
+C:\Users\ggolu\Desktop\cucet\cucet\bin\Debug\cucet.pdb
+C:\Users\ggolu\Desktop\cucet\cucet\bin\Debug\cucet.xml
+C:\Users\ggolu\Desktop\cucet\cucet\bin\Debug\MySql.Data.xml
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.vbprojResolveAssemblyReference.cache
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.Apply.resources
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.contact.resources
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.home.resources
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.importantdate.resources
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.program.resources
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.subapp.resources
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.syllabus.resources
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.uni.resources
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.Resources.resources
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.vbproj.GenerateResource.Cache
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.vbproj.CoreCompileInputs.cache
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.exe.manifest
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.application
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.exe
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.xml
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.pdb
+C:\Users\ggolu\Desktop\cucet\cucet\obj\Debug\cucet.course_registration.resources
+C:\Users\hp\Desktop\cucet\cucet\bin\Debug\cucet.exe.config
+C:\Users\hp\Desktop\cucet\cucet\bin\Debug\cucet.exe.manifest
+C:\Users\hp\Desktop\cucet\cucet\bin\Debug\cucet.application
+C:\Users\hp\Desktop\cucet\cucet\bin\Debug\cucet.exe
+C:\Users\hp\Desktop\cucet\cucet\bin\Debug\cucet.pdb
+C:\Users\hp\Desktop\cucet\cucet\bin\Debug\cucet.xml
+C:\Users\hp\Desktop\cucet\cucet\bin\Debug\MySql.Data.xml
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.vbprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.Apply.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.contact.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.course_registration.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.home.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.importantdate.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.program.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.subapp.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.syllabus.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.uni.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.Resources.resources
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.vbproj.GenerateResource.Cache
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.vbproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.exe.manifest
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.application
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.exe
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.xml
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.pdb
+C:\Users\hp\Desktop\cucet\cucet\obj\Debug\cucet.Form1.resources
