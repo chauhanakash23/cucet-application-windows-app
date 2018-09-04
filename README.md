@@ -1,10 +1,9 @@
-# food-delivery-system
-Two modules(vendors and customer) 
+# cucet-application-windows-app
 
 # Software requirements
-1. NetBeans(5.6 and above)
+1. Visual Basic
 2. MySQL
 
 # Usage
-On opening the complete project in any IDE(preferably NetBeans), and having the database in MySQL, change the passwords and user as per the system. 
-Then run in NetBeans or export it in .jar file.
+On opening the complete project in VB, and having the database in MySQL, change the passwords and user as per the system. 
+Then run in VB or export it in .exe file.
